@@ -1,0 +1,61 @@
+SPDXVersion: SPDX-2.2
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentName: check_dates.spdx
+DocumentNamespace: https://github.com/MatthewBuchananAstley/check_dates.git
+Creator: Person: Matthew Buchanan Astley (matthewbuchanan@astley.nl)
+Created: 2022-02-24T21:33:33Z
+CreatorComment: check_dates spdx file
+
+#
+#
+
+PackageName: check_dates
+SPDXID: SPDXRef-MatthewBuchananAstley-Package-check-dates
+PackageVersion: 1.0
+PackageVerificationCode: 9e44dd4d5b07de1314f898c11c8ba347af801845 (./check_dates.spdx excluded )
+PackageLicenseDeclared: GPL-3.0-or-later
+PackageLicenseInfoFromFiles: LicenseRef-GPL-3.0-or-later
+PackageLicenseConcluded: LicenseRef-GPL-3.0-or-later
+PackageCopyrightText: <text> 2011 - 2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
+PackageDownloadLocation: https://github.com/MatthewBuchananAstley/check_dates.git
+
+#
+#
+#
+
+FileName: ./README.md
+SPDXID: SPDXRef-README.md
+FileType: TEXT
+FileChecksum: SHA256: 3b4c6d1f2d5f320b4213021afd647c070b0de452a2bdbe746078a76c398be144
+FileChecksum: SHA1: f32ae495e621aad37832a7f43ec5e8868180e5d3
+FileCopyrightText: <text> 2011 - 2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
+LicenseInfoInFile: NOASSERTION
+LicenseConcluded: NOASSERTION
+
+#
+#
+#
+
+FileName: ./CHANGELOG
+SPDXID: SPDXRef-CHANGELOG
+FileType: TEXT
+FileChecksum: SHA256: e6dd1c38f62764f9f5673ed4140a324afdbb75be3f3ff328786f24deeef66e6c
+FileChecksum: SHA1: 8ea8df87fefea636bc0ad4a10e700fcb297e985c
+FileCopyrightText: NOASSERTION
+LicenseInfoInFile: NOASSERTION
+LicenseConcluded: NOASSERTION
+
+#
+#
+#
+
+FileName: ./check_Dates.pl
+SPDXID: SPDXRef-check-Dates.pl
+FileType: APPLICATION
+FileChecksum: SHA256: 74fe05529651fc6c91829261530cfbb5e2d37e2ba3e5d8e2fc5fc0dbe8fecfc0
+FileChecksum: SHA1: 5248725339afb7503a6dc57b52aaa6fa4a4e5304
+FileCopyrightText: <text> 2011 - 2022 Matthew Buchanan Astley ( matthewbuchanan@astley.nl ) </text>
+LicenseInfoInFile: GPL-3.0-or-later
+LicenseConcluded: GPL-3.0-or-later
+
